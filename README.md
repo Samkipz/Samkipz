@@ -2,10 +2,37 @@
 
 You can call me Sam🤠. I am an experienced Computer Science graduate with a strong foundation in project management, web development, and database administration. I'm skilled in multiple programming languages and frameworks. Let's build something amazing together!
 
-## 📚 Education
-- **BSc. Computer Science**, University of Kabianga (Aug 2018 – Nov 2022)
-  - Graduated with a Second Class Upper Division
+### 📚 Frameworks
 
+| Frontend     | Backend     |
+|-------------------------|------------------------|
+| React                   | Node.js                |
+| Sass                    | Express                |
+| Next.js                 | Laravel                |
+| Vue.js                  | Django                 |
+| Tailwind CSS            | Flask                  |
+| Bootstrap               | Spring Boot (Java)     |
+
+### 💾 Database Technologies
+
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+- ORM (Sequelize, Prisma)
+- ODM (Mongoose)
+
+### 💻 Programming Languages
+
+- Python
+- JavaScript
+- PHP
+- Java
+- HTML
+- CSS
+
+
+You can adjust the list based on your proficiency and preferences.
 ## 💼 Professional Experience
 - **ICT Authority Kenya** (Dec 2023 – Present)
   - Network configuration and maintenance at Malaba (KRA OSBP)
