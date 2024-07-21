@@ -1,4 +1,4 @@
-**Greetings! 🤗**
+**Greetings! 🤗**\n
 You can call me Sam🤠. I am an experienced Computer Science graduate with a strong foundation in project management, web development, and database administration. I'm skilled in multiple programming languages and frameworks. Let's build something amazing together!
 
 ## 📚 Education
